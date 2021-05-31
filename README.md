@@ -7,7 +7,7 @@ mvn clean install
 
 run
 
-http://localhost:<port>/pub
+http://localhost:port/pub
 
 managed this project with string based sending and receiving.
 
